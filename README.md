@@ -38,7 +38,7 @@ Images A, A’, B, and B’ will go through a procedure as follows:
 
 ## Running Project
 ```bash
-	$ python main.py
+$ python main.py
 ```
 
 ## References
